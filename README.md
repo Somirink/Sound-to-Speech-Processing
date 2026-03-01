@@ -1,4 +1,4 @@
-# Sound to Speech Processing Pipeline
+# Sound to Speech Processing of Tangkhul Vowels
 
 This project implements an automated speech-processing pipeline for acoustic analysis of Tangkhul vowels.  
 It extracts vowel formants (F1 and F2) from Praat TextGrid annotations, applies speaker normalization, and visualizes vowel space distributions.
